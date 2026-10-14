@@ -1,0 +1,4 @@
+selenium>=4
+webdriver-manager
+Pillow
+requests
